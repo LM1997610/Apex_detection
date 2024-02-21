@@ -6,4 +6,4 @@
 
 **Models**:
   - R-CNN: based on PyTorch [Object Detection Finetuning Tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
-  - YOLOv5 from [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+  - YOLOv5: from [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
