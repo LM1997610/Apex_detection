@@ -9,5 +9,5 @@
   - YOLOv5: from [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 
 
-![](media/apex_clip.mp4)
+![](media/apex_clip.gif)
 
