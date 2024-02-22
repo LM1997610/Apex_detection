@@ -1,4 +1,4 @@
-# Object detection for Apex Legends
+# Object detection for [Apex Legends](https://www.ea.com/games/apex-legends)
 
 ![Apex Legends Object Detection](media/apex_img.jpg)
 
