@@ -18,6 +18,7 @@ class ApexDetection(datasets.VisionDataset):
         self.root = root
         self.ids = [i for i in range(len(self.root))]
         self.transforms = transforms
+        self.device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 
     def _load_image(self, idx: int):
       image = self.root[idx]['image']
@@ -59,7 +60,7 @@ class ApexDetection(datasets.VisionDataset):
     def __prediction__(self, img, model, threshold):
        img = img.permute(0,1,2).unsqueeze(0)
        model.eval()
-       prediction = model(img)
+       prediction = model(img.to(self.device))
 
        top_predictions = self.__filter_prediction__(prediction[0], threshold)
 
