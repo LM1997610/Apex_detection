@@ -12,4 +12,4 @@
   <img src="media/apex_clip.gif" alt="animated" />
 </p>
 
-Sample video from [Youtube](https://www.youtube.com/watch?v=85f2zhQtXGg&t=9s&ab_channel=hvapex"
+Sample video from [YouTube](https://www.youtube.com/watch?v=85f2zhQtXGg&t=9s&ab_channel=hvapex)
