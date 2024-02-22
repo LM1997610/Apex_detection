@@ -8,7 +8,9 @@
   - R-CNN: based on PyTorch [Object Detection Finetuning Tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
   - YOLOv5: from [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 
+![](media/apex_clip.gif)
 
-<div style="text-align:center">
-    <img src="media/apex_clip.gif" alt="Apex Clip">
-</div>
+
+<p align="center">
+  <img src="media/apex_clip.gif" alt="animated" />
+</p>
